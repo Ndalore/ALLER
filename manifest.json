@@ -1,0 +1,21 @@
+{
+    "name": "ALLER App",
+    "short_name": "ALLER ease",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "icons": [
+      {
+        "src": "15924812-5703018.jpg",
+        "sizes": "192x192",
+        "type": "image/jpeg"
+      },
+      {
+        "src": "15924812-5703018.jpg",
+        "sizes": "512x512",
+        "type": "image/jpeg"
+      }
+    ]
+  }
+  
